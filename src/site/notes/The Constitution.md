@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["gardenEntry"],"aliases":null,"permalink":"/the-constitution/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":false,"tags":null,"aliases":null,"permalink":"/the-constitution/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # **The Royal Constitution of Shatadia**
